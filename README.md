@@ -8,6 +8,5 @@
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-
-<script src="https://tryhackme.com/badge/2631426"></script>
-
+  
+<img src="https://tryhackme-badges.s3.amazonaws.com/Vadkan.png" alt="TryHackMe">
