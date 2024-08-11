@@ -1,12 +1,10 @@
 ## Hi there 👋 I'm Darek
 
-- 🔭 I'm currently a student at 42 Heilbronn, where my main focus is learning C programming language by completing various projects, that you can find in my repositories.
-- 🌱 I’m also really passionate about cybersecurity and my long term goal is to become an expert in this area.
+- 🔭  I'm currently studying at 42 Heilbronn, with a primary focus on mastering the C programming language through various projects, which you can find in my repositories.
+- 🌱 I'm deeply passionate about cybersecurity, and my long-term goal is to become an expert in this field.
 - ⚡  
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-  
-<img src="https://tryhackme-badges.s3.amazonaws.com/Vadkan.png" alt="TryHackMe">
